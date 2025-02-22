@@ -1,10 +1,7 @@
-Here’s a polished and professional **README.md** file tailored for GitHub. It includes all the necessary details, commands, and structure to make your project stand out:
 
----
 
 # AI-Powered Task Management System 🚀
 
-![Project Banner](https://via.placeholder.com/1200x400) <!-- Add a banner image if available -->
 
 A **real-time task management system** powered by AI for smart task suggestions and breakdowns. Built with **Golang (Gin/Fiber)** for the backend and **TypeScript (Next.js + Tailwind CSS)** for the frontend. Deployed on **Vercel** (frontend) and **Render/Fly.io** (backend).
 
